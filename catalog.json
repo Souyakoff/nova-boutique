@@ -1,0 +1,63 @@
+{
+  "name": "Boutique de démo NOVA",
+  "updatedAt": "2026-10-28T08:37:41.786Z",
+  "games": [
+    {
+      "id": "orbite",
+      "title": "Orbite",
+      "description": "Un satellite, deux orbites, un seul bouton. Change d'anneau avec ✕ pour esquiver les astéroïdes et cueillir les étoiles.",
+      "genre": "Arcade · Un bouton",
+      "author": "Hugo",
+      "colors": [
+        "#7c5cff",
+        "#0b0630"
+      ],
+      "version": "1.0.0",
+      "price": 0,
+      "featured": false,
+      "releaseDate": "2026-10-01",
+      "cover": "covers/orbite.png",
+      "trophies": 4,
+      "size": 147373,
+      "download": "orbite.zip"
+    },
+    {
+      "id": "pixel-serpent",
+      "title": "Pixel Serpent",
+      "description": "Le serpent qui grandit, revisité en néon : mange, accélère, et ne te mords pas la queue. Ton record est sauvegardé sur ton profil.",
+      "genre": "Arcade · Classique",
+      "author": "Hugo",
+      "colors": [
+        "#2dffa0",
+        "#05261a"
+      ],
+      "version": "1.0.0",
+      "price": 300,
+      "featured": false,
+      "releaseDate": "2026-10-12",
+      "cover": "covers/pixel-serpent.png",
+      "trophies": 4,
+      "size": 146211,
+      "download": "pixel-serpent.zip"
+    },
+    {
+      "id": "tour-infinie",
+      "title": "Tour Infinie",
+      "description": "Les blocs glissent, tu les lâches avec ✕. Ce qui dépasse tombe. Jusqu'où montera ta tour ?",
+      "genre": "Adresse · Empilement",
+      "author": "Hugo",
+      "colors": [
+        "#ff4fa3",
+        "#2a0820"
+      ],
+      "version": "1.0.0",
+      "price": 800,
+      "featured": true,
+      "releaseDate": "2026-10-25",
+      "cover": "covers/tour-infinie.png",
+      "trophies": 5,
+      "size": 133431,
+      "download": "tour-infinie.zip"
+    }
+  ]
+}
