@@ -1,4 +1,4 @@
-# Boutique de démo NOVA
+# Boutique de Souyakoff
 
 Boutique pour [NOVA](https://github.com/Souyakoff), le launcher façon console.
 
@@ -8,6 +8,5 @@ Dans NOVA : **Paramètres → Adresse de la boutique** →
 
 | Jeu | Version | Prix |
 |---|---|---|
-| Orbite | 1.0.0 | Gratuit |
-| Pixel Serpent | 1.0.0 | ◆ 300 |
-| Tour Infinie | 1.0.0 | ◆ 800 |
+| Dark Souls : Winterash | 0.7.0+484ada8 | ◆ 500 |
+| Cyberpunk Edgerunner Legacy | 0.21.0+688fac3 | ◆ 400 |

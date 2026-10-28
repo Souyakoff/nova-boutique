@@ -1,63 +1,45 @@
 {
-  "name": "Boutique de démo NOVA",
-  "updatedAt": "2026-10-28T08:37:41.786Z",
+  "name": "Boutique de Souyakoff",
+  "updatedAt": "2026-10-28T09:41:24.002Z",
   "games": [
     {
-      "id": "orbite",
-      "title": "Orbite",
-      "description": "Un satellite, deux orbites, un seul bouton. Change d'anneau avec ✕ pour esquiver les astéroïdes et cueillir les étoiles.",
-      "genre": "Arcade · Un bouton",
-      "author": "Hugo",
+      "id": "dark-souls-winterash",
+      "title": "Dark Souls : Winterash",
+      "description": "Souls-like en 3D pixelisée, vue de dessus. Après la chute de Drangleic, un hiver sans fin recouvre la vallée de Cendrehiver : ravive la Première Flamme… ou laisse-la s'éteindre.",
+      "genre": "Souls-like · 3D",
+      "author": "Souyakoff",
       "colors": [
-        "#7c5cff",
-        "#0b0630"
+        "#a9bdd3",
+        "#0b1018"
       ],
-      "version": "1.0.0",
-      "price": 0,
-      "featured": false,
-      "releaseDate": "2026-10-01",
-      "cover": "covers/orbite.png",
-      "trophies": 4,
-      "size": 147373,
-      "download": "orbite.zip"
-    },
-    {
-      "id": "pixel-serpent",
-      "title": "Pixel Serpent",
-      "description": "Le serpent qui grandit, revisité en néon : mange, accélère, et ne te mords pas la queue. Ton record est sauvegardé sur ton profil.",
-      "genre": "Arcade · Classique",
-      "author": "Hugo",
-      "colors": [
-        "#2dffa0",
-        "#05261a"
-      ],
-      "version": "1.0.0",
-      "price": 300,
-      "featured": false,
-      "releaseDate": "2026-10-12",
-      "cover": "covers/pixel-serpent.png",
-      "trophies": 4,
-      "size": 146211,
-      "download": "pixel-serpent.zip"
-    },
-    {
-      "id": "tour-infinie",
-      "title": "Tour Infinie",
-      "description": "Les blocs glissent, tu les lâches avec ✕. Ce qui dépasse tombe. Jusqu'où montera ta tour ?",
-      "genre": "Adresse · Empilement",
-      "author": "Hugo",
-      "colors": [
-        "#ff4fa3",
-        "#2a0820"
-      ],
-      "version": "1.0.0",
-      "price": 800,
+      "version": "0.7.0+484ada8",
+      "price": 500,
       "featured": true,
-      "releaseDate": "2026-10-25",
-      "cover": "covers/tour-infinie.png",
-      "trophies": 5,
-      "size": 133431,
-      "download": "tour-infinie.zip"
+      "releaseDate": "2026-10-28",
+      "cover": "covers/dark-souls-winterash.png",
+      "trophies": 9,
+      "size": 479346,
+      "download": "dark-souls-winterash.zip"
+    },
+    {
+      "id": "cyberpunk-edgerunner-legacy",
+      "title": "Cyberpunk Edgerunner Legacy",
+      "description": "Monte ton équipe, charge-toi en chrome, deviens une légende. Action rapide en vue de dessus : dash, Sandevistan, netrunning… La ville se souviendra. (Fan game non officiel.)",
+      "genre": "Action · Roguelite",
+      "author": "Souyakoff",
+      "colors": [
+        "#f2d43a",
+        "#1a0820"
+      ],
+      "version": "0.21.0+688fac3",
+      "price": 400,
+      "featured": false,
+      "releaseDate": "2026-10-28",
+      "cover": "covers/cyberpunk-edgerunner-legacy.webp",
+      "background": "backgrounds/cyberpunk-edgerunner-legacy.webp",
+      "trophies": 10,
+      "size": 337797,
+      "download": "cyberpunk-edgerunner-legacy.zip"
     }
   ]
 }
